@@ -10,6 +10,8 @@
 
 [Lab 05: Python Lists, Trees](./Week_3/Lab05.ipynb)
 
+[Lab 06: Nonlocal, Mutability](./Week_4/Lab06.ipynb)
+
 ## Disc
 
 [Disc 04: Recursion, Tree Recursion, Python Lists](./Week_3/Disc04.ipynb)
