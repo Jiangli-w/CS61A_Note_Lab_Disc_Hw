@@ -12,6 +12,8 @@
 
 [Lab 06: Nonlocal, Mutability](./Week_4/Lab06.ipynb)
 
+[Lab 07: Midterm Review](./Week_4/Lab07.ipynb)
+
 ## Disc
 
 [Disc 04: Recursion, Tree Recursion, Python Lists](./Week_3/Disc04.ipynb)
