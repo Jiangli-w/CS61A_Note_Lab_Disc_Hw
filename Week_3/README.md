@@ -410,7 +410,7 @@ True
 
 #### Tree Abstraction
 
-![Tree](./Picture/Tree.png "Tree")
+![Tree](../Picture/Tree.png "Tree")
 
 * __Recursive description (wooden trees):__
 </br>
