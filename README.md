@@ -20,6 +20,8 @@
 
 [Disc 05: Python Lists, Trees, Mutability](./Week_3/Disc05.ipynb)
 
+[Disc 06: Nonlocal, Midterm Review](./Week_4/Disc06.ipynb)
+
 ## HW
 
 [HW 04: Data Abstraction, Trees](./Week_3/HW04.ipynb)
