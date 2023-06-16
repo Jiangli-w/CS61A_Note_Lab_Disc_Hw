@@ -25,3 +25,5 @@
 ## HW
 
 [HW 04: Data Abstraction, Trees](./Week_3/HW04.ipynb)
+
+[HW 05: Nonlocal, Iterators & Generators](./Week_4/Hw05.ipynb)
