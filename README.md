@@ -6,6 +6,8 @@
 
 [Week_4](./Week_4/README.md)
 
+[Week_5](./Week_5/README.md)
+
 ## Lab
 
 [Lab 05: Python Lists, Trees](./Week_3/Lab05.ipynb)
