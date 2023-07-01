@@ -18,6 +18,8 @@
 
 [Lab 08: Object-Oriented Programming](./Week_5/Lab08.ipynb)
 
+[Lab 09: Linked Lists, Mutable Trees](./Week_5/Lab09.ipynb)
+
 ## Disc
 
 [Disc 04: Recursion, Tree Recursion, Python Lists](./Week_3/Disc04.ipynb)
