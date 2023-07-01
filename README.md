@@ -26,6 +26,8 @@
 
 [Disc 06: Nonlocal, Midterm Review](./Week_4/Disc06.ipynb)
 
+[Disc 08: Iterators & Generators, Object-Oriented Programming](./Week_5/Disc08.ipynb)
+
 ## HW
 
 [HW 04: Data Abstraction, Trees](./Week_3/HW04.ipynb)
