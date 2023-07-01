@@ -16,6 +16,8 @@
 
 [Lab 07: Midterm Review](./Week_4/Lab07.ipynb)
 
+[Lab 08: Object-Oriented Programming](./Week_5/Lab08.ipynb)
+
 ## Disc
 
 [Disc 04: Recursion, Tree Recursion, Python Lists](./Week_3/Disc04.ipynb)
