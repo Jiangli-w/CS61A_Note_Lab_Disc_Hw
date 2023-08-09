@@ -41,3 +41,5 @@
 [HW 04: Data Abstraction, Trees](./Week_3/HW04.ipynb)
 
 [HW 05: Nonlocal, Iterators & Generators](./Week_4/Hw05.ipynb)
+
+[HW 06: Object-Oriented Programming, Linked Lists, Trees](./Week_5/Hw06.ipynb)
