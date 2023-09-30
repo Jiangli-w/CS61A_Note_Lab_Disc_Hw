@@ -25,7 +25,7 @@
 [Lab 09: Linked Lists, Mutable Trees](./Week_5/Lab09.ipynb)
 
 [Lab 10: Scheme, Scheme Lists](./Week_6/lab10/lab10.scm)
-[练习网址]（https://inst.eecs.berkeley.edu/~cs61a/su20/lab/lab10/）
+[练习网址](https://inst.eecs.berkeley.edu/~cs61a/su20/lab/lab10/)
 
 ## Disc
 
