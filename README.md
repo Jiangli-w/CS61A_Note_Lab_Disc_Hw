@@ -39,6 +39,8 @@
 
 [Disc 09: Linked Lists, Trees](./Week_5/Disc09.ipynb)
 
+[Disc 10: Scheme, Scheme Lists](./Week_6/Disc10.md)
+
 ## HW
 
 [HW 04: Data Abstraction, Trees](./Week_3/HW04.ipynb)
